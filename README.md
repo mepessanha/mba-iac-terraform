@@ -23,8 +23,8 @@ O objetivo da atividade foi replicar, em um ambiente AWS, a infra proposta no de
 
 1. Clonar este repositório
     ```
-    git clone https://github.com/tchainaf/mba-iac.git
-    cd mba-iac
+    git clone https://github.com/mepessanha/mba-iac-terraform.git
+    cd mba-iac-terraform
     ```
 
 2. Adicionar as variáveis para criação dos recursos AWS no arquivo `terraform.vars`:
