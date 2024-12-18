@@ -22,7 +22,7 @@ variable "aws_session_token" {
 }
 
 variable "db_user" {
-  description = "Usuário admini do banco de dados"
+  description = "Usuário admin do banco de dados"
   type        = string
   default     = "db_admin"
 }
